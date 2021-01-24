@@ -16,11 +16,11 @@ Lets you construct complex objects step by step. The pattern allows you to produ
 
 Provides an interface for creating objects in a superlcass, but allows subclasses to alter the type of objects that will be created
 
-#### Prototype :star: :star:
+### Prototype :star: :star:
 
 Lets you copy existing objects without making your code dependent on their classes
 
-#### Singleton :star: :star:
+### Singleton :star: :star:
 
 Lets you ensure that a class has only one instance, while providing a global access point to this instance.
 
