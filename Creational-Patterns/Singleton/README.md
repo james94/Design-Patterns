@@ -24,13 +24,13 @@ You can't just use a class that depends on Singleton in some other context. You'
 
 ## Examples
 
-- [Naive Singleton](Singleton/Naive-Singleton)
+- [Naive Singleton](Naive-Singleton)
 
-- [Thread-Safe Singleton](Singleton/Thread-Safe-Singleton)
+- [Thread-Safe Singleton](Thread-Safe-Singleton)
 
 ## Use Case
 
-- [Database Connection](Singleton/Use-Case/Database-Connection/)
+- [Database Connection](Use-Case/Database-Connection/)
 
 **NOTE:** Implemenation example for Database Connection class that acts as a Thread-Safe Singleton coming soon.
 
