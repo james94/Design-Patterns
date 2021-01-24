@@ -1,6 +1,6 @@
 # Example Code: Naive Singleton
 
-## Building C++ Example :wrench:
+## Building C++ Example :hammer_and_wrench:
 
 To build this example, first run CMake to generate the corresponding build files. We recommend you create a separate directory to store all the generated files:
 
@@ -20,7 +20,7 @@ Alternative,
 cmake --build .
 ~~~
 
-## Running C++ Example
+## Running C++ Example :play_or_pause_button:
 
 Run the following command to run the Naive Singleton Demo:
 
