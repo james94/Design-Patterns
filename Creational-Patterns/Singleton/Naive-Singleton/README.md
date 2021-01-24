@@ -1,5 +1,11 @@
 # Example Code: Naive Singleton
 
+## Jump to Code :keyboard:
+
+- [main.cpp](C++/src/main.cpp)
+- [NaiveSingleton.hpp](C++/include/NaiveSingleton.hpp)
+- [NaiveSingleton.cpp](C++/src/NaiveSingleton.cpp)
+
 ## Concept :dart:
 
 A Naive (Sloppy) Singleton class can be developed by hiding the constructor and implementing a static creation method. This class behaves incorrectly in a multi-threaded environment because multiple threads can call the creation method at the same time and get several instances of this Naive Singleton class.
