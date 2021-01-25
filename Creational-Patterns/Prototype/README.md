@@ -16,7 +16,7 @@ All prototype classes should have a common interface that makes it possible to c
 
 **Usage example**: The Prototype pattern is available in C++ out of the box with a `Cloneable` interface.
 
-- [] Where is Prototype pattern availabe out of box in C++?
+- [ ] Where is Prototype pattern availabe out of box in C++?
 
 **Identification**: The prototype can be easily recognized by a `clone` or `copy` methods, etc.
 
